@@ -1,2 +1,8 @@
-# tech-library
-Important tech books to read (&amp;own)
+- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt & David Thomas
+- UNIX Network Programming by Richard Stevens
+- Introduction to Algorithms by Thomas Cormen
+- The Algorithm Design Manual by Steven Skiena
+- Clean Code by Robert Martin
+- Cracking the Coding Interview by Gayle Laakmann McDowell
+- Head First Design Patterns by Eric Freeman
+- Concrete Mathematics: A Foundation for Computer Science by Donald Knuth, Oren Patashnik, Ronald Graham
